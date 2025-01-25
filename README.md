@@ -21,6 +21,7 @@ Certifique-se de ter instalado:
 1. Clone este repositório:
    ```bash
    
+   
 
 2. Acesse o diretório do projeto:
 
@@ -63,7 +64,7 @@ Arquivos
 
 LH_CD_Jenifer_Gonçalves_da_Silva.ipynb: Código principal do projeto.
 
-modelo-preco.pkl: Modelo treinado salvo para reutilização.
+modelo-pred-preco.pkl: Modelo treinado salvo para reutilização.
 
 requirements.txt: Lista de dependências do projeto.
 
