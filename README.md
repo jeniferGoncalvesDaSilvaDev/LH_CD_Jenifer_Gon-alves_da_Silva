@@ -49,7 +49,7 @@ Como Executar o Projeto
 jupyter notebook
 
 
-2. Abra o arquivo principal do projeto (modelo_predicao.ipynb) no navegador.
+2. Abra o arquivo principal do projeto (LH_CD_Jenifer_Gonçalves_da_Silva.ipynb) no navegador.
 
 
 3. Execute todas as células do notebook para carregar os dados, treinar o modelo, realizar as previsões e salvar o modelo.
