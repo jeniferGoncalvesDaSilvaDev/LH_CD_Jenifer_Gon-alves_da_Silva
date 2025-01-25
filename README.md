@@ -1,4 +1,4 @@
-# Projeto de Previsão de Preços com Regressão Linear
+# Projeto de Previsão de Preços de apartamentos de uma plataforma com Regressão Linear
 
 Este projeto utiliza um modelo de Regressão Linear para prever o preço de locações baseando-se em variáveis como tipo de quarto, localização, número mínimo de noites e outros fatores. 
 
@@ -20,11 +20,11 @@ Certifique-se de ter instalado:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/projeto-previsao-precos.git
+   
 
 2. Acesse o diretório do projeto:
 
-cd projeto-previsao-precos
+cd projeto-previsao-precoshttps://github.com/jeniferGoncalvesDaSilvaDev/LH_CD_Jenifer_Gon-alves_da_Silva.git
 
 
 3. Crie e ative um ambiente virtual:
