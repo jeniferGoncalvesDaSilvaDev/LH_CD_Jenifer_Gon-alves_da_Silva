@@ -1,6 +1,6 @@
 # Projeto de Previsão de Preços de apartamentos de uma plataforma com Regressão Linear
 
-Este projeto utiliza um modelo de Regressão Linear para prever o preço de locações baseando-se em variáveis como tipo de quarto, localização, número mínimo de noites e outros fatores. 
+Este projeto utiliza um modelo de Regressão Linear para prever o preço de apartamentos baseando-se em variáveis como tipo de quarto, localização, número mínimo de noites e outros fatores. 
 
 O código foi desenvolvido e testado em um ambiente Jupyter Notebook.
 
